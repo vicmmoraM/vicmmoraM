@@ -54,12 +54,27 @@
 
 ### 📊 Mis Estadísticas de GitHub
 
-[![vicmmoraM's Stats](https://github-readme-stats.vercel.app/api?username=vicmmoraM&theme=nord&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-### 🔥 Mi Racha de Contribuciones
+  <div style="flex: 1 1 45%; min-width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 20px; background-color: #0d1117;">
+    <h3 align="center" style="color: #c9d1d9;">Estadísticas Generales</h3>
+    <p align="center">
+      [![vicmmoraM's Stats](https://github-readme-stats.vercel.app/api?username=vicmmoraM&theme=nord&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+    </p>
+  </div>
 
-[![vicmmoraM's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vicmmoraM&theme=nord&hide_border=true)](https://github.com/vicmmoraM)
+  <div style="flex: 1 1 45%; min-width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 20px; background-color: #0d1117;">
+    <h3 align="center" style="color: #c9d1d9;">Racha de Contribuciones</h3>
+    <p align="center">
+      [![vicmmoraM's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vicmmoraM&theme=nord&hide_border=true)](https://github.com/vicmmoraM)
+    </p>
+  </div>
 
-### 📈 Mis Lenguajes Principales
+  <div style="flex: 1 1 45%; min-width: 300px; border: 1px solid #30363d; border-radius: 6px; padding: 20px; background-color: #0d1117;">
+    <h3 align="center" style="color: #c9d1d9;">Lenguajes Principales</h3>
+    <p align="center">
+      [![vicmmoraM's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicmmoraM&theme=nord&show_icons=true&hide_border=true&layout=compact)](https://github.com/vicmmoraM)
+    </p>
+  </div>
 
-[![vicmmoraM's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicmmoraM&theme=nord&show_icons=true&hide_border=true&layout=compact)](https://github.com/vicmmoraM)
+</div>
