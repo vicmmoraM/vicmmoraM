@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### 👨‍💻 About me
+- 🎓 Student at Escuela Superior Politécnica del Litoral (ESPOL), Ecuador
+- 📧 Email: vicmmora@espol.edu.ec
+- - 💼 LinkedIn: [link](https://www.linkedin.com/in/victor-morales-vasquez-049a25320/)
 <!--
 **vicmmoraM/vicmmoraM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
