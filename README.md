@@ -71,3 +71,15 @@
   </a>
 </p>
 
+## 📌Repositorios 
+<p align="center">
+  <a href="https://github.com/vicmmoraM/ProjectCV2P">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicmmoraM&repo=ProjectCV2P&theme=nord&show_owner=true" />
+  </a>
+  <a href="https://github.com/vicmmoraM/BlackJackProject">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicmmoraM&repo=BlackJackProject&theme=nord&show_owner=true" />
+  </a>
+  <a href="https://github.com/LockHurb/Bones-Bytes">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LockHurb&repo=Bones-Bytes&theme=nord&show_owner=true" />
+  </a>
+</p>
