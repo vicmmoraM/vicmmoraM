@@ -1,85 +1,63 @@
-## Hi there 👋
-
-### 👨‍💻 About me
-- 🎓 Student at Escuela Superior Politécnica del Litoral (ESPOL), Ecuador
-- 📧 Email: vicmmora@espol.edu.ec
-- 💼 LinkedIn: [link](https://www.linkedin.com/in/victor-morales-vasquez-049a25320/)
-
-### ✨ Interests
-- 💻 Software & Web Development: Construcción de aplicaciones web y móviles, backend y frontend.
-- 🧠 Artificial Intelligence: Exploración de algoritmos, modelos y aplicaciones de IA.
-- 📊 Data Science, Analysis & Engineering: Extracción de insights, visualización y toma de decisiones basada en datos.
-- 🗣️ Languages
-
-## 💻 Languages & Tools
-
 <div align="center">
-<table>
-  <tr>
-    <td valign="top" colspan="2" style="text-align: center;">
-      <div align="center">
-        <h4>Data Analysis</h4>
-        <p><i>Tools and libraries for cleaning, transforming, exploring and modeling data.</i></p>
-        <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB" alt="Python Badge">
-        <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%234479A1" alt="MySQL Badge">
-        <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white&labelColor=%23150458" alt="Pandas Badge">
-        <img src="https://img.shields.io/badge/Numpy-black?style=for-the-badge&logo=numpy&logoColor=white&labelColor=%23013243" alt="Numpy Badge">
-        <img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib&logoColor=white&labelColor=%231f77b4" alt="Matplotlib Badge">
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" style="text-align: center;">
-      <div align="center">
-        <h4>Web Development</h4>
-        <p><i>Languages and frameworks for building dynamic, interactive and responsive web apps.</i></p>
-        <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%23d8c108" alt="JavaScript Badge">
-        <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=white&labelColor=%23E34F26" alt="HTML Badge">
-        <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=white&labelColor=%23663399" alt="CSS Badge">
-      </div>
-    </td>
-    <td valign="top" style="text-align: center;">
-      <div align="center">
-        <h4>Others</h4>
-        <p><i>Additional technologies for software development, version control and programming logic.</i></p>
-        <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white&labelColor=red" alt="Java Badge">
-        <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white&labelColor=%23F05032" alt="Git Badge">
-        <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white&labelColor=%23181717" alt="GitHub Badge">
-        <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white&labelColor=%23A8B9CC" alt="C Badge">
-      </div>
-    </td>
-  </tr>
-</table>
+  <h1>Victor Manuel Morales Vasquez 💻</h1>
+  <p><em>Junior Software Developer · Student developer · ESPOL, Ecuador</em></p>
+  <p>
+    <a href="mailto:vicmmora@espol.edu.ec">vicmmora@espol.edu.ec</a> ·
+    <a href="https://www.linkedin.com/in/vicmmoram/">LinkedIn</a> ·
+    <a href="https://github.com/vicmmoraM">GitHub</a>
+  </p>
 </div>
 
-## 📊 Mis Estadísticas de GitHub
+## About Me
+Student at **ESPOL (Ecuador)** interested in the intersection of software development, artificial intelligence, and data. I build things on the web, explore AI models, and extract insights from data.
 
-<h4>Estadísticas Generales</h4>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=vicmmoraM&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="vicmmoraM's Stats"/>
-  </a>
-</p>
+### Skills
 
-<h4>Racha de Contribuciones y Lenguajes Principales</h4>
-<p align="center">
-  <a href="https://github.com/vicmmoraM">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vicmmoraM&theme=nord&hide_border=true" alt="vicmmoraM's Streak"/>
-  </a>
-  <a href="https://github.com/vicmmoraM">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicmmoraM&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="vicmmoraM's Top Languages"/>
-  </a>
-</p>
+**Frontend**
 
-## 📌Repositorios 
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Data**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**Tooling & VCS**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+
+**Architecture & patterns**
+
+`Domain-Driven Design · DDD` &nbsp; `Role-Based Access Control · RBAC`
+
+## Projects
+| Project | Description |
+|---|---|
+| [ProjectCV2P](https://github.com/vicmmoraM/ProjectCV2P) | Computer vision applied to image processing |
+| [BlackJackProject](https://github.com/vicmmoraM/BlackJackProject) | Classic card game with object-oriented logic |
+| [Bones & Bytes](https://github.com/LockHurb/Bones-Bytes) | Collaborative data exploration and visualization |
+
+### GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/vicmmoraM/ProjectCV2P">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicmmoraM&repo=ProjectCV2P&theme=nord&show_owner=true" />
-  </a>
-  <a href="https://github.com/vicmmoraM/BlackJackProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vicmmoraM&repo=BlackJackProject&theme=nord&show_owner=true" />
-  </a>
-  <a href="https://github.com/LockHurb/Bones-Bytes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LockHurb&repo=Bones-Bytes&theme=nord&show_owner=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=vicmmoraM&theme=default&show_icons=true&hide_border=false&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vicmmoraM&theme=default&hide_border=false" height="150"/>
 </p>
