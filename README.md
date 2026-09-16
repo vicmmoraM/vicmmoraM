@@ -54,10 +54,3 @@ Student at **ESPOL (Ecuador)** interested in the intersection of software develo
 | [ProjectCV2P](https://github.com/vicmmoraM/ProjectCV2P) | Computer vision applied to image processing |
 | [BlackJackProject](https://github.com/vicmmoraM/BlackJackProject) | Classic card game with object-oriented logic |
 | [Bones & Bytes](https://github.com/LockHurb/Bones-Bytes) | Collaborative data exploration and visualization |
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vicmmoraM&theme=default&show_icons=true&hide_border=false&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vicmmoraM&theme=default&hide_border=false" height="150"/>
-</p>
